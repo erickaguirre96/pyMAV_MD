@@ -1,6 +1,9 @@
 # pyMAV_MD
-## Software for MUSE-Analysis-Via-MaNGA-DAP (MAV_MD), allowing the user to utilize the broad power of the MaNGA Data Analysis Pipeline (DAP) and apply it to MUSE data cubes.
+### Software for MUSE-Analysis-Via-MaNGA-DAP (MAV_MD). MAV_MD allows the user to utilize the broad power of the MaNGA Data Analysis Pipeline (DAP) and apply it to MUSE data cubes.
 
-pyMAV_MD gives users the ability to:
-1. Run a raw MUSE cube through the MaNGA DAP
+pyMAV_MD provides users the important abilities to:
+1. Run a raw MUSE cube through the MaNGA DAP.
+2. Specifiy spatial binning and spectral templates to use.
+3. Extract flux, inverse variance and best-fit model from the MaNGA DAP to the data.
+4. Obtain stellar kinematics and ion-emission line maps outputted by the DAP.
 
