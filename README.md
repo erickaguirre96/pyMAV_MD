@@ -3,7 +3,7 @@
 
 MAV_MD provides users to utilize the broad power of the MaNGA Data Analysis Pipeline (DAP) and apply it to MUSE data cubes.
 
-MAV_MD gives users the important abilities to:
+MAV_MD allows for the abilities to:
 
 1. Run a raw MUSE cube through the MaNGA DAP.
 2. Specifiy spatial binning and spectral templates to use for the DAP.
