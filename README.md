@@ -1,7 +1,5 @@
 # pyMAV_MD
-## Software for MUSE Analysis Via MaNGA-DAP (MAV_MD)
-
-MAV_MD provides users to utilize the broad power of the MaNGA Data Analysis Pipeline (DAP) and apply it to MUSE data cubes.
+Software for MUSE Analysis Via MaNGA-DAP (MAV_MD). MAV_MD provides users to utilize the broad power of the MaNGA Data Analysis Pipeline (DAP) and apply it to MUSE data cubes.
 
 MAV_MD allows for the abilities to:
 
